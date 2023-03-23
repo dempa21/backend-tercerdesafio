@@ -1,0 +1,13 @@
+[
+	{
+		"title": "camiseta",
+		"description": "una camiseta",
+		"price": "1200",
+		"status": "1",
+		"code": "abc123",
+		"stock": "1",
+		"category": "ropa",
+		"thumbnails": [],
+		"id": 1
+	}
+]
